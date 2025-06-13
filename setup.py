@@ -179,7 +179,7 @@ install_requires = [
 ]
 
 setup(
-    name="controlnet_aux",
+    name="controlnet_aux_openpose_fix",
     version="0.0.10",  # expected format is one of x.y.z.dev0, or x.y.z.rc1 or x.y.z (no to dashes, yes to dots)
     description="Auxillary models for controlnet",
     long_description=open("README.md", "r", encoding="utf-8").read(),
