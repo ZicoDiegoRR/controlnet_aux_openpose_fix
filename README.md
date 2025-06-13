@@ -9,6 +9,10 @@ All credit & copyright goes to <https://github.com/lllyasviel> .
 ## Install
 
 ```bash
+# The modified version
+pip install -U controlnet-aux-openpose-fix
+
+# The original version
 pip install -U controlnet-aux
 ```
 
